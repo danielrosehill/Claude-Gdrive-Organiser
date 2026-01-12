@@ -1,3 +1,5 @@
+[![Part of the Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Claude Google Drive Organiser
 
 A GitHub template repository for creating Claude Code workspaces that manage and organize Google Drive via rclone.
@@ -157,3 +159,7 @@ Claude follows these safety principles:
 ## License
 
 MIT
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
