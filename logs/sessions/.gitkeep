@@ -1,0 +1,8 @@
+# Session Logs Directory
+
+This folder contains detailed per-session activity logs.
+
+Files in this directory:
+- session_YYYY-MM-DD_HH-MM-SS.md - Individual session logs
+
+These logs are automatically created when running `/gdrive-organize`.

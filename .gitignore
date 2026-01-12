@@ -1,0 +1,25 @@
+# Session and operation logs (keep structure, ignore contents)
+logs/sessions/*.md
+logs/operations/*.md
+logs/summaries/*.md
+!logs/**/.gitkeep
+
+# rclone cache and temp files
+.rclone/
+*.rclone.conf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.temp
+/tmp/

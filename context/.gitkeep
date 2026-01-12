@@ -1,0 +1,9 @@
+# Context Directory
+
+This folder contains additional context for Claude about this specific drive.
+
+Suggested files to add:
+- drive-history.md - History and background of this drive
+- special-folders.md - Folders with special handling requirements
+- naming-examples.md - Examples of preferred naming conventions
+- exclusions.md - Files/folders to never touch

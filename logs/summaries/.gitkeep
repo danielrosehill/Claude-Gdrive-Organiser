@@ -1,0 +1,11 @@
+# Summary Logs Directory
+
+This folder contains high-level session summaries.
+
+Files in this directory:
+- summary_YYYY-MM-DD.md - Daily/periodic summaries
+
+Summaries provide:
+- Drive statistics
+- Organization progress
+- Recommendations for future sessions

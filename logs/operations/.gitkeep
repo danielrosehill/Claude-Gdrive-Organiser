@@ -1,0 +1,10 @@
+# Operations Logs Directory
+
+This folder contains logs for specific operations.
+
+Files in this directory:
+- inbox_YYYY-MM-DD.md - Inbox processing logs
+- duplicates_YYYY-MM-DD.md - Duplicate handling logs
+- moves_YYYY-MM-DD.md - File move operations
+
+These logs provide an audit trail of all file operations.
